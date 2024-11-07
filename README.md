@@ -1,14 +1,19 @@
 These files were originally created by Prof. Shinya Yamamoto and later modified by Prof. Hyoung F. Kim and colleagues.
 
 Please see the papers using these fractal images
+ 
  2023 Nat. Commun. Seong-Hwan Hwang, Doyoung Park, Ji-Woo Lee, Sue-Hyun Lee & Hyoung F. Kim
       Convergent representation of values from tactile and visual inputs for efficient goal-directed behavior in the primate putamen
+ 
  2022 iScience Seong-Hwan Hwang, Yongsoo Ra, Somang Paeng, and Hyoung F. Kim
       Motivational salience drives habitual gazes during value memory retention and facilitates relearning of forgotten value
+ 
  2021 Nat. Commun. Joonyoung Kang, Hyeji Kim, Seong Hwan Hwang, Minjun Han, Sue-Hyun Lee & Hyoung F. Kim
       Primate ventral striatum maintains neural representations of the value of previously rewarded objects for habitual seeking
+ 
  2015 Cell Kim HF*, Ghazizadeh A, Hikosaka O 
       Dopamine neurons encoding long-term memory of object value for habitual behavior
+ 
  2013 Neuron Kim HF* and Hikosaka O  
       Distinct basal ganglia circuits controlling behaviors guided by flexible and stable values.
  
