@@ -1,6 +1,8 @@
 These files were originally created by Prof. Shinya Yamamoto and later modified by Prof. Hyoung F. Kim and colleagues.
 
-Please see the papers using these fractal images
+Please see the papers using these fractal images 
+
+ 2025 Nat. Commun. Seong-Hwan Hwang et al.
  
  2023 Nat. Commun. Seong-Hwan Hwang, Doyoung Park, Ji-Woo Lee, Sue-Hyun Lee & Hyoung F. Kim
       Convergent representation of values from tactile and visual inputs for efficient goal-directed behavior in the primate putamen
